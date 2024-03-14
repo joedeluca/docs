@@ -139,7 +139,7 @@ With `<script setup>`, imported components are automatically made available to t
 
 </div>
 
-It's also possible to globally register a component, making it available to all components in a given app without having to import it. The pros and cons of global vs. local registration is discussed in the dedicated [Component Registration](/guide/components/registration) section.
+It's also possible to globally register a component, making it available to all components in a given app without having to import it. The pros and cons of global vs. local registration are discussed in the dedicated [Component Registration](/guide/components/registration) section.
 
 Components can be reused as many times as you want:
 
